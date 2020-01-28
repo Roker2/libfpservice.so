@@ -19,7 +19,7 @@ Maybe need to patch Aliplay functions
 | android::notifyClient    | 1B400       | no                            |
 | android::notifyClient    | 1B404       | no                            |
 | android::notifyClient    | 1B408       | no                            |
-| android::notifyClient    | 1B30C       | no                            |
+| android::notifyClient    | 1B40C       | no                            |
 | android::notifyClient    | 1B410       | yes                           |
 | android::notifyClient    | 1B414       | yes                           |
 | android::notifyClient    | 1B418       | yes                           |

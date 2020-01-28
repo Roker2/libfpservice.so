@@ -7,7 +7,7 @@ Need to change to CMP X1, X0 or NOP
 CMP X1, X0 = 3F 00 00 EB in HEX
 NOP = 1F 20 03 D5 in HEX
 
-Based on comparing Leeco S2 blobs
+Based on comparing Leeco S2 and Xiaomi Redmi 4X blobs
 
 Maybe need to patch Aliplay functions
 
@@ -36,4 +36,4 @@ Maybe need to patch Aliplay functions
 | android::postData2Client | 1C64C       | yes                           |
 | android::postData2Client | 1C654       | yes                           |
 
-2 functions, 8 patch places
+2 functions, 22 patch places

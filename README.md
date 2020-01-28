@@ -13,13 +13,13 @@ Maybe need to patch Aliplay functions
 
 | Function                 | Patch place | Patch status (patched or not) |
 | :----------------------- | :---------- | :---------------------------- |
-| android::notifyClient    | 1B3F4       | no                            |
-| android::notifyClient    | 1B3F8       | no                            |
-| android::notifyClient    | 1B3FC       | no                            |
-| android::notifyClient    | 1B400       | no                            |
-| android::notifyClient    | 1B404       | no                            |
-| android::notifyClient    | 1B408       | no                            |
-| android::notifyClient    | 1B40C       | no                            |
+| android::notifyClient    | 1B3F4       | yes                           |
+| android::notifyClient    | 1B3F8       | yes                           |
+| android::notifyClient    | 1B3FC       | yes                           |
+| android::notifyClient    | 1B400       | yes                           |
+| android::notifyClient    | 1B404       | yes                           |
+| android::notifyClient    | 1B408       | yes                           |
+| android::notifyClient    | 1B40C       | yes                           |
 | android::notifyClient    | 1B410       | yes                           |
 | android::notifyClient    | 1B414       | yes                           |
 | android::notifyClient    | 1B418       | yes                           |
